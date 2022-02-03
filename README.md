@@ -17,7 +17,7 @@ And is involved in a wide variety of roles in these FOSS projects like the found
 
 I have been involved in multiple dimensions in Apache Software Foundation, like leading the Apache Local Community initiative, managing the foundation's weekly and monthly news round-ups, and part of project management committees of various projects, like Community Development, OFBiz, Roller, etc.
 
-### Connect with me:
+### 🤝🏿 Let's Connect:
 
 [<img align="left" alt="swapnilmmane.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="swapnilmmane | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
