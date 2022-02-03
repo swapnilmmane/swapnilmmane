@@ -19,10 +19,10 @@ I have been involved in multiple dimensions in Apache Software Foundation, like 
 
 ### 🤝🏿 Let's Connect:
 
-[<img align="left" alt="swapnilmmane.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="swapnilmmane | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="swapnilmmane | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Open Source Wave | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="swapnilmmane.com" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-globe-5.png" />][website]
+[<img align="left" alt="swapnilmmane | Twitter" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-twitter-5.png" />][twitter]
+[<img align="left" alt="swapnilmmane | LinkedIn" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-5.png" />][linkedin]
+[<img align="left" alt="Open Source Wave | YouTube" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2013/240/iconmonstr-youtube-10.png" />][youtube]
 
 [website]: https://swapnilmmane.com
 [twitter]: https://twitter.com/SwapnilMMane
