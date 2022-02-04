@@ -15,7 +15,7 @@ Some of my notable FOSS roles include:
 I have contributed to numerous open-source projects varying from ERP, CMS, Progressive Web App domain like Apache OFBiz, Roller, Vue Storefront, Storefront UI, Peregrine CMS, etc.
 And is involved in a wide variety of roles in these FOSS projects like the founder, lead, mentor, core contributor, evangelist, etc.
 
-I have been involved in multiple dimensions in Apache Software Foundation, like leading the Apache Local Community initiative, managing the foundation's weekly and monthly news round-ups, and part of project management committees of various projects, like Community Development, OFBiz, Roller, etc.
+And have been involved in multiple dimensions in Apache Software Foundation, like leading the Apache Local Community initiative, managing the foundation's weekly and monthly news round-ups, and part of project management committees of various projects, like Community Development, OFBiz, Roller, etc.
 
 ### 🤝🏿 Let's Connect:
 
