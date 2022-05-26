@@ -19,11 +19,12 @@ And have been involved in multiple dimensions in Apache Software Foundation, lik
 
 ### 🤝🏿 Let's Connect:
 
-[<img align="left" alt="swapnilmmane | Twitter" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-twitter-5.png" />][twitter]
-[<img align="left" alt="swapnilmmane | LinkedIn" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-5.png" />][linkedin]
-[<img align="left" alt="swapnilmmane.com" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-globe-5.png" />][website]
+[<img align="left" alt="swapnilmmane | Twitter" width="22px" src="http://i.imgur.com/tXSoThF.png" />][twitter]
+[<img align="left" alt="swapnilmmane.com" width="22px" src="http://i.imgur.com/1AGmwO3.png" />][website]
+<!--
+[<img align="left" alt="LN" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-5.png" />][linkedin]
 [<img align="left" alt="Open Source Wave | YouTube" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2013/240/iconmonstr-youtube-10.png" />][youtube]
-
+-->
 [website]: https://swapnilmmane.com
 [twitter]: https://twitter.com/SwapnilMMane
 [linkedin]: https://linkedin.com/in/SwapnilMMane
