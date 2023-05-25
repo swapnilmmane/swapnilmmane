@@ -1,7 +1,7 @@
 ### Hi there, I'm [Swapnil M Mane](https://www.swapnilmmane.com/) 👋 
 
 I am an open-source evangelist and advocate, serving as Vice President at the Apache Community Development and taking care of Developer Relations activities at [Webiny](https://www.webiny.com/).  
-[Apache Software Foundation](https://www.apache.org/) is the world's largest open source foundation. I am also working on spreading open source awareness with [Open Source Wave](https://www.opensourcewave.io) initiative and worked with the student community and educated 1500+ students in open source through in-person events.
+[Apache Software Foundation](https://www.apache.org/) is the world's largest open source foundation. I am also working on spreading open source awareness with [Open Source Wave](https://www.opensourcewave.io) initiative and worked with the student community and educated 2500+ students in open source through in-person events.
 
 Some of my notable FOSS roles include:
 
